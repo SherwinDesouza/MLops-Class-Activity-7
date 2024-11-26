@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "big-synthesizer-442911-p5",
+  "private_key_id": "3a45c35e53a3922e79123c55bdd54b78c264e267",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCGkaqnzDrLGwWn\nZhk1IwU+fijWYEXxYGID3SFsdFVPqgNVgpZDkTamBClFU+01Lok51w6fvQAB2fsP\na+9DmMDe0VSoTfxMep54JiQYyjKHi3Ss2pH1hcvR9T9Map9DBDJwDeWtQvG/J2eS\nFYelVLJ2SJL1aRHS5ALeNSjd0PeWxT+i6qqM8amnXbQuGHZ2bI9AkccWTTE19vhE\n0M7s6JofEl/5ziYYKrqVOKBXJlQEEGoCFhZg3LjASZiHRWQaggu6GsnaeE6qa5xd\nNzcAHQ6kO/pkq6ps+SAn9lyHRkIV6h8Eze3NnZg5XfO/+xDH6FRFrhF5PEudDU6p\nH4j744CVAgMBAAECggEAFK9rhiOUngfnVJYTJeHeOn72FA30cmgYaPOi4aL4Qiim\nHozWQEigF+Dn3ypJejVPDr8KFm/dAmvZdcNnogJnE1kmJEDomXD3zww93DmojsFX\nDAMFELKiZAHI2xxAovKQNj1Motd5haKu/vukQDvGuvvo6yRdgwddkX6ma4JlrJ0o\nWawe9KRl85MWaewEX2+VLBtPDtotvjUK5tsD/XDNN6PbKMTymycs/wvprHb9du06\n2tcFLzEW4L2eMg/JJENTh6R45kk8x310hM1dobyXumfJVfU582YDiZX7bWuNyI6/\n51WLtiB6CH8BvofjMJemZqZ0Afk1oP07vr/6Zum1wQKBgQC9wbmsYwJUQdKis1Or\nVdLNeKp3CKWt4KQPGSR4Yax2JmBm1CvCAGJ9h3G+4mHuCWqTvTxWiRpyhjeK0g98\nwd99GGp8Ntjh5mee4OT8WDe4UUwFfPDDRRWNb8kZsLN3nk5+RWbYP+bzW+bWjNj2\nmPF5CnXcK2/M7rpmh2qo5l/f7QKBgQC1i+Wa4qU3nVJMW9taDt08U0AfkDCE5ibr\ngtaaIMogMwOGeO6Xhi1fz8yoA/jZtQ1e7sIQmLr0M41uIQIvac00I/NGgSkhbRnL\nHNN2mZvPAWCWySuu+sIbcidW+skxVPu5ZSdGDEKb5TcE3ekvxXu8UqCveUXsWphQ\nRTBMHO5+SQKBgC9kYusbD0nb5q+b+hmgpbWLnYd9MWPr5w2eSe2G93vKuej0tLkP\nP4n6ef4irDK3R1b+vEMgmupfex/Atv2Brj+gCXhcem5xDRAxOv+LSN9P7pywR7F9\nX5SjhqZT637EmvYOf1EjJJtDKLQNGWL9b9G7OxRyBMo6FXPl/k2QvAFBAoGATSEB\nTDtMHAOfikdgOrOj9FQeIwq8QkoRcO8mQ1b46JMjxUatfvyHXHRJK3x8hemwo4tm\nMWzhyIv6YzZs2j3l62f2nBaVpdjXI368rF94XYrlQUp4X5+zRbvK0N49CdNkGpDK\nDa15wwevx0aMIjqRZiHomIQ6W77lhPzQFxYXkNkCgYA7vz5r/zirq/WrckkKOvE/\n4d8nP5+2+TcJCHF/tO3MdfrM2498X5zM2362Amz663+NDvVTaffEXUwmSVk+KDu5\nbOayqHC57HStPY3mKO1edclLCePyA5ZnX/ckQiqr6HrYyi0gKLfiHrJglJRkH9Jm\n0nCGcsgj/ynNi4FybPTgbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "account-for-dvc@big-synthesizer-442911-p5.iam.gserviceaccount.com",
+  "client_id": "113374005257589623691",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account-for-dvc%40big-synthesizer-442911-p5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

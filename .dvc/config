@@ -1,0 +1,6 @@
+[core]
+    remote = gdrive
+['remote "gdrive"']
+    url = gdrive://1Ix1VeJL5am2fnX4pDZj-kl-PoZSdKshQ
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:\Users\PAX\MLops-Class-Activity-7\FileForDVC.json
