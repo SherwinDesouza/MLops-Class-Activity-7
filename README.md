@@ -31,3 +31,4 @@ To run your DAG locally, copy the dag folder path and do:
 ```bash
 python myDAG.py
 ```
+For further clarification, read my article: https://medium.com/@sherwindesouza9/ee426cd57f35
